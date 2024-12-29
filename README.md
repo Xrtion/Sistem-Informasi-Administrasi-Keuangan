@@ -15,9 +15,3 @@ Ini adalah proyek Laravel 11 yang menggunakan Filament sebagai admin panel. Proy
 * **PHP:** Versi 8.0 atau lebih tinggi
 * **Composer:** Manajer dependensi PHP
 * **Node.js dan npm:** Untuk mengelola aset frontend
-
-**Instalasi**
-
-1. **Clone repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
